@@ -10,7 +10,7 @@
 
 
 #project setup instructions: 
-    It was built with HTML.
+    It was built with HTML and CSS.
 
 
 #link to live site on GitHub Pages: 
